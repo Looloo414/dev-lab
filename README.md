@@ -41,3 +41,4 @@ echo >> README.md
 echo Contents of ~/.gitignore_global >> README.md
 cat ~/.gitignore_global >> README.md
 echo >> README.md
+# Day-2-Hwk
